@@ -1,0 +1,9 @@
+{
+	"name": "adf-lvt-labs",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1089895a-848c-4efe-8579-7070d0586ef4",
+		"tenantId": "3fa2d739-36fe-4182-a840-ff3d802f8274"
+	}
+}
