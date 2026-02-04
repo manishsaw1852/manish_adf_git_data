@@ -1,0 +1,15 @@
+{
+	"name": "LS_website",
+	"properties": {
+		"annotations": [],
+		"type": "Web",
+		"typeProperties": {
+			"url": "https://www.careerpower.in/blog/cbse-ctet-admit-card-2026-at-ctet-nic-in",
+			"authenticationType": "Anonymous"
+		},
+		"connectVia": {
+			"referenceName": "IR-selfhosted",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
